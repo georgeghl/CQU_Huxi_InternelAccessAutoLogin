@@ -1,0 +1,6 @@
+{
+    "accountName" : "Guest",
+    "accountUrl" : "http://10.254.7.4:801/eportal/portal/login?callback=dr1004&login_method=1&user_account=,0,20000000&user_password=20000000&wlan_user_ip=10.0.0.1&wlan_user_ipv6=&wlan_user_mac=ffffffffffff&wlan_ac_ip=&wlan_ac_name=&jsVersion=4.2&terminal_type=1&lang=zh-cn&v=1891&lang=zh",
+    "sleepTime" : 5
+
+}
